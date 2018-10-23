@@ -1,0 +1,8 @@
+com\scp\spring\service\PersonServiceImpl.class
+com\scp\spring\model\Person.class
+com\scp\spring\dao\PersonDAOImpl.class
+com\scp\config\WebAppInitializer.class
+com\scp\config\SpringMVCXmlConfig.class
+com\scp\spring\service\PersonService.class
+com\scp\spring\PersonController.class
+com\scp\spring\dao\PersonDAO.class
